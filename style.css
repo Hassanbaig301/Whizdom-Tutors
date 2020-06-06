@@ -1,0 +1,130 @@
+#logo { size: 2px;
+    width: 110px;
+    height: 70px;
+    padding-left: 5px;
+}
+
+.navbar navbar-expand-lg navbar-light bg-light {
+    width: 10px;
+}
+
+.navbar-text{font-weight: bold;
+
+}
+
+.main {
+    background-color: aliceblue;
+}
+
+img {
+    width: auto;
+    height: 350px;
+}
+
+#faculty {
+    display: flex;
+    justify-content: center; 
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.card {
+    display: inline-block;
+    justify-content: center;
+    margin: 20px;
+    text-align: center;
+    font-weight: 500;
+    font-size: medium;
+    margin-left: 100px;
+}
+
+#slider {
+    margin: 5px 5px 5px 5px;
+}
+
+#cards {
+    justify-content: center;
+margin-left: 100px;
+}
+
+#bod { display: flex;
+    display: inline-block;
+    justify-content: center;
+margin-left: 40px;
+}
+
+#head {
+    font-weight: 500;
+    color: lightskyblue;
+        justify-content: center;
+        margin-left: 550px;
+        margin-top: 20px;
+}
+
+#para {
+    justify-content: center;
+    margin: 20px;
+    padding: 5px;
+    
+    display: flex;
+    }
+
+    #cont {
+        margin-top: 40px;
+        margin-left: 90px;
+       width: 80px;
+       height: 50px;
+       
+    }
+#us {
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+#icon {
+    display: inline-block;
+    margin-left: 50px;
+    padding: 10px;
+}
+    .form-group {
+        margin: 15px 15px 15px;
+        
+    }
+
+    .btn-primary {
+        margin: 10px 10px 10px 50% ;
+        justify-content: center;
+        display: inline-block;
+    }
+
+    #terms {
+        padding: 10px;
+        margin: 5px 10px 5px 10px ;
+    }
+
+    #condition {
+        margin: 10px 36% 20px;
+        color: lightskyblue;
+    }
+
+.sub {
+margin: 10px 40%;
+display: inline-block;
+}
+
+body {
+    background-color:whitesmoke;
+}
+
+p {
+    font-weight: bold;
+}
+
+#online {
+    margin: 25px 40px 20px 36%;
+    color: lightskyblue;
+}
+
+#link {
+    margin: 20px 40px 20px 15% ;
+}
